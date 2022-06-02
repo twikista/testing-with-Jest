@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "directories": {
-    "test": "tests --coverage"
+    "test": "jest"
   },
   "scripts": {
     "test": "jest"
